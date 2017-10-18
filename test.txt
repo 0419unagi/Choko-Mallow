@@ -2,3 +2,5 @@ mizuki
 Hogehoge
 masterブランチ
 mizukiブランチ
+
+Masterブランチその２
